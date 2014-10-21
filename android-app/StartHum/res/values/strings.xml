@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StartHum</string>
+    <string name="hum_button">Recording…</string>
+    <string name="hum_content">HUM</string>
+    <string name="title_activity_show_results">ShowResults</string>
+    <string name="res">Resultados</string>
+
+</resources>

@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<repertory>
+  <song id="01" path="">
+    <author>The White Stripes</author>
+    <title>Seven Nation Army</title>
+    <genre>Alternative</genre>
+    <thumb_url>http://images.coveralia.com/audio/t/The_White_Stripes-Elephant-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/01/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="02" path="">
+    <author>Nirvana</author>
+    <title>Smells Like Teen Spirit</title>
+    <genre>Grunge</genre>
+    <thumb_url>http://images.coveralia.com/audio/n/Nirvana-Nevermind-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/02/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="03" path="">
+    <author>Gotye</author>
+    <title>Somebody That I Used To Know</title>
+    <genre>Alternative</genre>
+    <thumb_url>http://images.coveralia.com/audio/g/Gotye-Somebody_That_I_Used_To_Know_(CD_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/03/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="04" path="">
+    <author>Train</author>
+    <title>Hey Soul Sister</title>
+    <genre>Pop Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/t/Train-Hey,_Soul_Sister_(CD_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/04/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="05" path="">
+    <author>David Guetta</author>
+    <title>Titanium</title>
+    <genre>Pop, Soul</genre>
+    <thumb_url>http://www.coveralia.com/caratulas/David-Guetta-Titanium-(Featuring-Sia)-(CD-Single)-Frontal.php</thumb_url>
+    <samples>
+      <sample path="db/05/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="06" path="">
+    <author>Neon Trees</author>
+    <title>Everybody Talks</title>
+    <genre>Alternative</genre>
+    <thumb_url>http://images.coveralia.com/audio/n/Neon_Trees-Everybody_Talks_(CD_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/06/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="07" path="">
+    <author>Carly Rae Jepsen</author>
+    <title>Call Me Maybe</title>
+    <genre>Pop</genre>
+    <thumb_url>http://images.coveralia.com/audio/c/Carly_Rae_Jepsen-Call_Me_Maybe_(CD_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/07/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="08" path="">
+    <author>Queen</author>
+    <title>I Want To Break Free</title>
+    <genre>Rock</genre>
+    <thumb_url>http://www.rankopedia.com/CandidatePix/162118.gif</thumb_url>
+    <samples>
+      <sample path="db/08/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="09" path="">
+    <author>The Cranberries</author>
+    <title>Zombie</title>
+    <genre>Alternative Rock, Grunge</genre>
+    <thumb_url>http://images.coveralia.com/audio/t/The_Cranberries-No_Need_To_Argue-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/09/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="10" path="">
+    <author>Queen</author>
+    <title>The Show Must Go On</title>
+    <genre>Symphonic Rock, Hard Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/q/Queen-Greatest_Hits_III-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/10/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="11" path="">
+    <author>Queen</author>
+    <title>We Will Rock You</title>
+    <genre>Arena Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/q/Queen-Greatest_Hits_I_y_II-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/11/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="12" path="">
+    <author>Michael Jackson</author>
+    <title>Beat It</title>
+    <genre>Hard Rock, Dance Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/m/Michael_Jackson-Beat_It_(CD_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/12/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="13" path="">
+    <author>Michael Jackson</author>
+    <title>Thriller</title>
+    <genre>Pop, Funk</genre>
+    <thumb_url>http://images.coveralia.com/audio/m/Michael_Jackson-Thriller-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/13/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="14" path="">
+    <author>Beatles</author>
+    <title>Yesterday</title>
+    <genre>Baroque Pop</genre>
+    <thumb_url>http://images.coveralia.com/audio/t/The_Beatles-Help_-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/14/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="15" path="">
+    <author>Guns N’ Roses</author>
+    <title>Welcome To The Jungle</title>
+    <genre>Heavy Metal, Hard Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/g/Guns_N_Roses-Appetite_For_Destruction-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/15/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="16" path="">
+    <author>Of Monsters And Men</author>
+    <title>Dirty Paws</title>
+    <genre>Indie Folk, Indie Pop</genre>
+    <thumb_url>http://images.coveralia.com/audio/o/Of_Monsters_And_Men-My_Head_Is_An_Animal-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/16/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="17" path="">
+    <author>John Lennon</author>
+    <title>Imagine</title>
+    <genre>Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/j/John_Lennon-Imagine-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/17/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="18" path="">
+    <author>Red Hot Chilli Peppers</author>
+    <title>Californication</title>
+    <genre>Alternative Rock, Funk Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/r/Red_Hot_Chili_Peppers-Californication-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/18/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="19" path="">
+    <author>Jason Mraz</author>
+    <title>I Am Yours</title>
+    <genre>Pop Rock, Reggae, Folk Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/j/Jason_Mraz-We_Sing,_We_Dance,_We_Steal_Things-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/19/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="20" path="">
+    <author>Fito y Fitipaldi</author>
+    <title>Por La Boca Vive El Pez</title>
+    <genre>Rock</genre>
+    <thumb_url>http://www.coveralia.com/caratulas/Fito-y-Fitipaldis-Por-La-Boca-Vive-El-Pez-(Edicion-Coleccionista)-Frontal.php</thumb_url>
+    <samples>
+      <sample path="db/20/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="21" path="">
+    <author>La Oreja De Van Gogh</author>
+    <title>Muñeca De Trapo</title>
+    <genre>Pop Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/l/La_Oreja_De_Van_Gogh-Guapa-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/21/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="22" path="">
+    <author>Johann Brahms</author>
+    <title>Danza Húngara nº5</title>
+    <genre>Classical Music</genre>
+    <thumb_url>http://pictures2.todocoleccion.net/tc/2009/03/10/12357392.jpg</thumb_url>
+    <samples>
+      <sample path="db/22/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="23" path="">
+    <author>Mecano</author>
+    <title>Hoy No Me Puedo Levantar</title>
+    <genre>Tecno Pop</genre>
+    <thumb_url>http://images.coveralia.com/audio/m/Mecano-Hoy_No_Me_Puedo_Levantar_y_Otros_Grandes_Exitos-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/23/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="24" path="">
+    <author>Mecano</author>
+    <title>Me Colé En Una Fiesta</title>
+    <genre>Pop Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/m/Mecano-Mecano-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/24/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="25" path="">
+    <author>Amaral</author>
+    <title>Sin Ti No Soy Nada</title>
+    <genre>Blues</genre>
+    <thumb_url>http://images.coveralia.com/audio/a/Amaral-Sin_Ti_No_Soy_Nada_(CD_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/25/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="26" path="">
+    <author>Pereza</author>
+    <title>Princesas</title>
+    <genre>Pop Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/p/Pereza-Animales-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/26/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="27" path="">
+    <author>Café Quijano</author>
+    <title>La Taberna Del Buda</title>
+    <genre>Latin Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/c/Cafe_Quijano-La_Taberna_Del_Buda-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/27/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="28" path="">
+    <author>Café Quijano</author>
+    <title>Tequila</title>
+    <genre>Latin Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/c/Cafe_Quijano-Que_Grande_Es_Esto_Del_Amor-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/28/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="29" path="">
+    <author>Celldweller</author>
+    <title>Frozen</title>
+    <genre>Rock</genre>
+    <thumb_url>http://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Celldwelleralbum.jpg/220px-Celldwelleralbum.jpg</thumb_url>
+    <samples>
+      <sample path="db/29/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="30" path="">
+    <author>Geri Halliwell</author>
+    <title>It's Raining Men</title>
+    <genre>Disco, Dance</genre>
+    <thumb_url>http://a407.idata.over-blog.com/3/32/94/59/im_its_raining_men_uk_cd_front.jpg</thumb_url>
+    <samples>
+      <sample path="db/30/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="31" path="">
+    <author>La Musicalité</author>
+    <title>Por Si Te Vas</title>
+    <genre>Pop Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/l/La_Musicalite-4_Elementos-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/31/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="32" path="">
+    <author>Eminem</author>
+    <title>Love The Way You Lie</title>
+    <genre>Hip Hop, Pop</genre>
+    <thumb_url>http://images.coveralia.com/audio/e/Eminem-Love_The_Way_You_Lie_(Featuring_Rihanna)_(CD_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/32/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="33" path="">
+    <author>Enya</author>
+    <title>Boadicea</title>
+    <genre>New Age, Celta, Clásica</genre>
+    <thumb_url>http://images.coveralia.com/audio/e/Enya-Enya-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/33/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="34" path="">
+    <author>Amy Winehouse</author>
+    <title>Rehab</title>
+    <genre>Soul, Jazz</genre>
+    <thumb_url>http://images.coveralia.com/audio/a/Amy_Winehouse-Rehab_(CD_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/34/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="35" path="">
+    <author>Bon Jovi</author>
+    <title>It's My Life</title>
+    <genre>Hard Rock, Glam Metal</genre>
+    <thumb_url>http://images.coveralia.com/audio/b/Bon_Jovi-It_s_My_Life_(CD_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/35/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="36" path="">
+    <author>Dani Martin</author>
+    <title>Cero</title>
+    <genre>Pop Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/d/Dani_Martin-Cero_(CD_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/36/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="37" path="">
+    <author>Manolo Escobar</author>
+    <title>El Porompompero</title>
+    <genre>Rumba</genre>
+    <thumb_url>http://www.trabayudecampu.com/user/wp-content/uploads/2013/10/Manolo-EScobar.jpg</thumb_url>
+    <samples>
+      <sample path="db/37/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="38" path="">
+    <author>Formula V</author>
+    <title>Eva Maria</title>
+    <genre>Pop, Bubblegum Pop</genre>
+    <thumb_url>http://images.coveralia.com/audio/f/Formula_V-Grandes_Exitos-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/38/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="39" path="">
+    <author>Fun</author>
+    <title>We Are Young</title>
+    <genre>Indie Pop, Pop</genre>
+    <thumb_url>http://images.coveralia.com/audio/f/Fun_-We_Are_Young_(Featuring_Janelle_Monae)_(Cd_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/39/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="40" path="">
+    <author>Leiva</author>
+    <title>Terriblemente Cruel</title>
+    <genre>Pop, Pop Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/l/Leiva-Terriblemente_Cruel_(CD_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/40/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="41" path="">
+    <author>Mägo De Oz</author>
+    <title>Costa Del Silencio</title>
+    <genre>Heavy, Metal</genre>
+    <thumb_url>http://images.coveralia.com/audio/m/Mago_De_Oz-Gaia-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/41/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="42" path="">
+    <author>Mr Probz</author>
+    <title>Waves</title>
+    <genre>Acoustic</genre>
+    <thumb_url>http://images.coveralia.com/audio/m/Mr_Probz-Waves_(Cd_Single)-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/42/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="43" path="">
+    <author>Oasis</author>
+    <title>Whatever</title>
+    <genre>Britpop</genre>
+    <thumb_url>http://images.coveralia.com/audio/o/Oasis-Definitely_Maybe-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/43/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="44" path="">
+    <author>Order Of Era</author>
+    <title>One</title>
+    <genre>Pop, Alternative</genre>
+    <thumb_url>http://www.tvadmusic.co.uk/wp-content/uploads/2014/07/859712650580_cover.170x170-75.jpg</thumb_url>
+    <samples>
+      <sample path="db/44/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="45" path="">
+    <author>Los Sírex</author>
+    <title>Si Yo Tuviera Una Escoba</title>
+    <genre>Rock</genre>
+    <thumb_url>http://4.bp.blogspot.com/_e-XkgWgKsc8/S7kA_IKE5QI/AAAAAAAAGCM/MCHd3I44QLU/s320/La+Escoba+65.jpg</thumb_url>
+    <samples>
+      <sample path="db/45/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="46" path="">
+    <author>Rooney</author>
+    <title>I'm A Terrible Person</title>
+    <genre>Alternative Rock, Power Pop</genre>
+    <thumb_url>http://images.coveralia.com/audio/r/Rooney-Rooney-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/46/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="47" path="">
+    <author>El Matador</author>
+    <title>El Toro Y La Luna</title>
+    <genre>Flamenco, Rumba</genre>
+    <thumb_url>http://cdn-images.deezer.com/images/cover/b72051ba13078fedbff6702c70f8b548/350x350-000000-80-0-0.jpg</thumb_url>
+    <samples>
+      <sample path="db/47/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="48" path="">
+    <author>El Rey Leon</author>
+    <title>El Ciclo De La Vida</title>
+    <genre>Pop, African Choir</genre>
+    <thumb_url>http://lh5.ggpht.com/_fAT7UABRBOo/R5tLdWaAn6I/AAAAAAAAAJU/8F7QfUX2-cc/The_Lion_King_-_Bso-%5BFront%5D-%5Bwww.FreeCovers.net%5D.jpg</thumb_url>
+    <samples>
+      <sample path="db/48/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="49" path="">
+    <author>Jarabe De Palo</author>
+    <title>La Flaca</title>
+    <genre>Latin Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/j/Jarabe_De_Palo-La_Flaca-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/49/0" weigth="100"/>
+    </samples>
+  </song>
+  <song id="50" path="">
+    <author>Marea</author>
+    <title>La Luna Me Sabe A Poco</title>
+    <genre>Rock</genre>
+    <thumb_url>http://images.coveralia.com/audio/m/Marea-Besos_De_Perro-Frontal.jpg</thumb_url>
+    <samples>
+      <sample path="db/50/0" weigth="100"/>
+    </samples>
+  </song>
+</repertory>
